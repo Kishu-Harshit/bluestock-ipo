@@ -1,0 +1,12 @@
+# Python
+django_backend/venv/
+__pycache__/
+*.pyc
+
+# Node.js
+node_backend/node_modules/
+.env
+
+# General
+.DS_Store
+*.log
